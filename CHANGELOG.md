@@ -4,6 +4,9 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 ## Coming up next
 
+## Added
+- Javascript/Typescript: Infer global constants even if the `const` qualifier is missing
+
 ## [0.48.0](https://github.com/returntocorp/semgrep/releases/tag/v0.48.0) - 2021-04-20
 
 ### Added
